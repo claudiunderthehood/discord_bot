@@ -21,7 +21,7 @@
     "yt-search": "^2.10.3",
     "ytdl-core": "^4.10.1"
   },
-  "name": "cleanpulotto",
+  "name": "discord_bot",
   "version": "1.0.0",
   "main": "./Structures/index.js",
   "scripts": {
